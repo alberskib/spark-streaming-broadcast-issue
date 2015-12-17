@@ -1,0 +1,3 @@
+resolvers += "sbt-plugin-releases" at "http://repo.scala-sbt.org/scalasbt/sbt-plugin-releases"
+
+addSbtPlugin("com.eed3si9n" % "sbt-assembly" % "0.12.0")
